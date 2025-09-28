@@ -3,12 +3,12 @@ Portfolio Website - Demba Danso
 A modern, responsive portfolio website showcasing Demba Danso's work as a Community Development Facilitator and Technology Enthusiast. This website highlights his expertise in community development, networking, AI prompt engineering, and his work with CorpsAfrica in The Gambia.
 
 🚀 Live Demo
-
+https://dembiz001.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 ✨ Features
 Responsive Design - Optimized for all devices (mobile, tablet, desktop)
 
-Modern UI/UX - Clean, professional design with black color scheme
+Modern UI/UX - Clean, professional design with blue color scheme
 
 Interactive Elements - Smooth scrolling, animated skill bars, form validation
 
@@ -23,7 +23,7 @@ Icons: Font Awesome 6.4.0
 
 Fonts: Google Fonts (Segoe UI)
 
-Deployment: [Specify your hosting platform]
+Deployment: Github Pages
 
 📁 Project Structure
 text
