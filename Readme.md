@@ -1,10 +1,12 @@
-now write a nice readme file for the project for me
 Portfolio Website - Demba Danso
+
 📋 Project Overview
+
 A modern, responsive portfolio website showcasing Demba Danso's work as a Community Development Facilitator and Technology Enthusiast. This website highlights his expertise in community development, networking, AI prompt engineering, and his work with CorpsAfrica in The Gambia.
 
 🚀 Live Demo
-[Add your live website URL here]
+https://dembiz001.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+
 
 ✨ Features
 Responsive Design - Optimized for all devices (mobile, tablet, desktop)
